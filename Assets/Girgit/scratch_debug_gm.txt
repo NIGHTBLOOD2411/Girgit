@@ -1,0 +1,56 @@
+=== GameManager component fields ===
+m_CorrespondingSourceObject: fileID=0  -> None
+m_PrefabInstance: fileID=0  -> None
+m_PrefabAsset: fileID=0  -> None
+m_GameObject: fileID=2009094986  -> Girgit Game
+m_Script: fileID=11500000  -> <unknown GO 11500000>
+  Levels:
+Player: fileID=1968339606  -> <unknown GO 1968339606>
+Ground: fileID=899718211  -> <unknown GO 899718211>
+Mixer: fileID=503281976  -> <unknown GO 503281976>
+Flow: fileID=503281982  -> <unknown GO 503281982>
+LevelText: fileID=1169335805  -> <unknown GO 1169335805>
+TimerText: fileID=312555463  -> <unknown GO 312555463>
+MatchText: fileID=1950515275  -> <unknown GO 1950515275>
+CountdownText: fileID=1033198579  -> <unknown GO 1033198579>
+DimOverlay: fileID=1338295710  -> <unknown GO 1338295710>
+GameOver1Fade: fileID=974293953  -> <unknown GO 974293953>
+GameOver2Panel: fileID=1154411051  -> GameOver2
+GameOver2Animator: fileID=1154411053  -> <unknown GO 1154411053>
+GameOverPanel: fileID=668907568  -> Gameover 2
+GameOverMessage: fileID=0  -> None
+ChallengeCompletePanel: fileID=1262699384  -> Game Over Victory
+ChallengeCompleteMessage: fileID=0  -> None
+WinPanel: fileID=920608761  -> You Won
+HudFade: fileID=558357087  -> <unknown GO 558357087>
+  EnvironmentRoots:
+--- !u!114 &2009094988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2009094986
+...
+
+=== ScreenFlow component fields ===
+m_CorrespondingSourceObject: fileID=0  -> None
+m_PrefabInstance: fileID=0  -> None
+m_PrefabAsset: fileID=0  -> None
+m_GameObject: fileID=503281975  -> HUD Canvas
+m_Script: fileID=11500000  -> <unknown GO 11500000>
+SplashPanel: fileID=1856108509  -> SplashPanel
+MenuPanel: fileID=1971790434  -> MenuPanel
+GameplayPanel: fileID=0  -> None
+Game: fileID=2009094988  -> <unknown GO 2009094988>
+
+=== ScreenFlow component fields ===
+m_CorrespondingSourceObject: fileID=0  -> None
+m_PrefabInstance: fileID=0  -> None
+m_PrefabAsset: fileID=0  -> None
+m_GameObject: fileID=503281975  -> HUD Canvas
+m_Script: fileID=11500000  -> <unknown GO 11500000>
+SplashPanel: fileID=1817720340  -> SplashPanel
+MenuPanel: fileID=596943727  -> MenuPanel
+GameplayPanel: fileID=1402171762  -> GameplayPanel
+Game: fileID=2009094988  -> <unknown GO 2009094988>

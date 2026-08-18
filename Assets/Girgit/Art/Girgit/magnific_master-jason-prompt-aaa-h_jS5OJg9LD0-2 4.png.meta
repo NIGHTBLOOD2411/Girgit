@@ -1,0 +1,2815 @@
+fileFormatVersion: 2
+guid: 6613f19821488e04680b4499fa22aaa9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723b49cb3132094fa5465987565cae4
+      internalID: -1851188476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf1d2b1d2353d4499b938c5bd9fe75
+      internalID: -312709521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031298e3f37e2e94a845c6f49454dd55
+      internalID: 1778603708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a1cf0f12895044b22bb6158831f03
+      internalID: 1061821619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_4
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58fb3f469138de4fb2462f31a79aa4e
+      internalID: 1224053448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_5
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb062ee7d392c964c83b38bfca0331bd
+      internalID: 2136414107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_6
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcbecbf614c394bab3aad02e891b6f
+      internalID: -98053206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_7
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0bfb5f889b3ec428ce25e387af7b4f
+      internalID: 257942286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_8
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b464dac931d8a4e99779ab64b58961
+      internalID: 2032208422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_9
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4aac0d41f72640b45be44e7fbe7ee
+      internalID: 296818352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_10
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3723.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35463f55612ea0d4e8980181ed4d4d4e
+      internalID: -415086439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e874b3595d4e46b21e4c8d34debef
+      internalID: -1200706334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f6d94581f7ad449ca6566764aac9e
+      internalID: -1304936001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_13
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee6a18c5ee33d41aa6cae3075d34ea
+      internalID: -96970173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_14
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788ab1e5842cde45a4cedbc873ec54b
+      internalID: -675728749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_15
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea8f83a9f59de643bcd07372c6958b8
+      internalID: 1194952638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_16
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1f008caca4694fb97a8680ba3d79f
+      internalID: -1649551283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_17
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43191dd8f6b4c5541ac1dea3f5eddb7d
+      internalID: -505065271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_18
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22525753702c0fd4e9ef3cbe9c22a670
+      internalID: 1721550226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_19
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42ef83f78ce8242b9935849f70bcbb
+      internalID: 1768871766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_20
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9adb1c46b7f14696b1c561546399d
+      internalID: 1429216788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_21
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3351.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72035bd4fdb132449a07f26889f17c0
+      internalID: -1499357417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e137e97970b62949a2a84426979e8fc
+      internalID: 1336328341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339071f823d2454eb6f056f901ee2a9
+      internalID: -1183218169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c906e95bcbc2c479e7a05fc5d58316
+      internalID: -689239498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_25
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d89fc281def9d3448d535f4f98d9d5e
+      internalID: 1141422687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_26
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941c921b1664c445b46c21f7e7c42bd
+      internalID: 70665900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_27
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c639260b8d07024a97905f38da5b7dc
+      internalID: -838881444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_28
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23e771fbd0ea8b4d95b4eb0cd340c5a
+      internalID: -799321480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9737ca785aa28d4f910691f511926b0
+      internalID: 266657388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_30
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31daa620123adb4e8d4bb804066c82b
+      internalID: 627547963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_31
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286254c00a38b6640a53783ef8ea09a5
+      internalID: -1252914779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_32
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2979.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7742fe9f65d08499e8357473716624
+      internalID: -829505026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0dd46f7d73b9640bc5f062ffc6e1ec
+      internalID: -1341027628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4860c1a851809246aae22dcf7d502a3
+      internalID: 611406747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08fad4044a1aa4e92a9ec1c6d58b8a
+      internalID: -2075492883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_36
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab79d8bd9d23544bd689625f2113c6
+      internalID: 343761061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_37
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c36552fe320242be5f404c7ea7744
+      internalID: 2001832662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_38
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e76619b2e101d4449310f245d62a044
+      internalID: 759599238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_39
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140a50692525aa41ac62c37231b21a0
+      internalID: 1464910004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_40
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9494eaa30b978d4896f13bd00c437c7
+      internalID: 1653261986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_41
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77caf0fd203624d8779ec30043e976
+      internalID: -1876335948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_42
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857335e8a0e4d78429e3e8d7b0660247
+      internalID: -1703455373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_43
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2607.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55951136a3b239a429e6a608ee0c11fa
+      internalID: 896008631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7349b023bfee8f4f9fbedd8f7e00785
+      internalID: 274761254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d710a535af024f94a16a2e0ff8674
+      internalID: 1133159894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b68ce1bed339e46881e3603487ef27
+      internalID: 447778781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_47
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0659a462dc358841b61be85a6fd961b
+      internalID: 1713628103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_48
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c15d8e10b78e449d11a07e054a8e4
+      internalID: -1440737067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_49
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b306459892e51d47bec42343d9f969c
+      internalID: 328722262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_50
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630f82b3112fc642b77f7894a2e53fa
+      internalID: -1903961479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_51
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480910073790cc148a6e5cb732486813
+      internalID: 1908609588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_52
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0825f0b3c6b1b8f42a0875a406382817
+      internalID: -469582170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_53
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b66a5c5b70f1499a5e35b8097c771
+      internalID: -442057141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_54
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2235.6362
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7a6e306139914ab15a5b6a190b73c
+      internalID: -263575439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9578657ec4e9324bab596b2cdfdcea6
+      internalID: -213335935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0b98e1ec2563a47b2d74b47f216fd4
+      internalID: 2040166303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf54ef7bec6974388030011df4e4e2
+      internalID: 1945035944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_58
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d7850e706d43419b15efefd3d8a7c
+      internalID: -1696960713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_59
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9648c939a0b14c9fc9a14d47321e5
+      internalID: 2036376274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_60
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a21129d4b787041b7bdad7bae82fb1
+      internalID: -653900906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_61
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55eb68d001f514887e816ac1d33bcb
+      internalID: 176460644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_62
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07079fd339f3a4d9d76aa25f18e01f
+      internalID: 518995641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_63
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16e7de2b3e78c4180e425cd406ae2c
+      internalID: -259280750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_64
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cb877afad4e8a40947974fc7afe2f6
+      internalID: -444621236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_65
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1863.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550f935346f47142bd7537f37c5c7c8
+      internalID: 215989564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a151ca73b89a43809372416d4f6f6
+      internalID: 901540922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b1b2a315de7744782bd4ad00fb2294
+      internalID: 1075967155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_68
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb13c2e4c610541baf976400360103
+      internalID: -324463406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_69
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e6fad7ed82b44c8568d78312f8be1
+      internalID: -49008968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_70
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff73349e4b141b4e90c98b23c3b3cfa
+      internalID: 1240344021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_71
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293261aba58d664caa47bfd02af1fe7
+      internalID: -2059003995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_72
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f117c5fa1f38e48b1e7b9a2360a401
+      internalID: 67700633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_73
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec3442fac17e043bfbf141622fa768
+      internalID: 1833478306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_74
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d549c7f0eb3e4a8d4c48c6fff034a
+      internalID: 1473350814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_75
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb073975d8f37408665d08bd49cf39
+      internalID: 607544129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_76
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1491.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9041373baf57c41aa3dfe4fc3d1e10
+      internalID: 950423413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c21be320334a74a9bd3748dba8fd86
+      internalID: -1906672772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3b85ba5116e8d4b9ac9a5a79d15806
+      internalID: -1798812206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_79
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e2429ab3c9ad449edfad945fb6ca1
+      internalID: 354135057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_80
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9932e8aa107fa3642abd76ef6d9ccf91
+      internalID: -796617976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_81
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b75cb37f50ce43a03a6fbc305bc09
+      internalID: 1439412730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_82
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c587a9f127924a8910d0ec42b7d10
+      internalID: -759168627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_83
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec425a73265cc34e9e8e55f97338742
+      internalID: -838155760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_84
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01479185de516ce49ac8879220b90f13
+      internalID: 85747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_85
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bf8b06e569094da46e071148e3d79
+      internalID: -2096387451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_86
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e1948b3ddc3642aff3dea0321eb93
+      internalID: 1148043806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_87
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1119.6364
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb5fa7beb890b49b8a85b5d5d464f3
+      internalID: 1163712424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b938c2f20dc19f4f95d9e44d59c5e3c
+      internalID: 1088509196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_89
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d3ab0655872a4ba43b9966e050d77
+      internalID: -1719979566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_90
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4edcb198e6e3469756905aa073048
+      internalID: 926691046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_91
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138f33a21849204db9a0a177e9d9d01
+      internalID: -703385547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_92
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ead3be41b4a194a854459d2dcd8539
+      internalID: 857968745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_93
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed509fca19a93489ee84b12e30f969
+      internalID: 1185321679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_94
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdf1c0891b113f42aec55e273c8249d
+      internalID: 926155202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_95
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264da5ba629a7044f8b10e5169ca8a91
+      internalID: -1880548271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_96
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa68e8b9a5c634d8c9f2e1b9b44712
+      internalID: -1715979136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_97
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959c7b5be4c0f345b60443eda572d49
+      internalID: 882170869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_98
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 747.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff96d3800d8fe774ebf7d9ab92251521
+      internalID: -1235167092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c858118a0c70a42ac2b9de8c570578
+      internalID: -912078895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_100
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636636f7e2c96140898277732104d69
+      internalID: -856087864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_101
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d92acef15161449e2c7e852f95138
+      internalID: 2092671715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_102
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dac1e0ac899a34b8424030f5ac66bf
+      internalID: 2009607101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_103
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd355dbc01df6ac4f9715d0ad36c6518
+      internalID: 1237961418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_104
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8caf69b3620d4997c23768bdab80c
+      internalID: -1417200931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_105
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cbd5c1a683f14286784f4c3dfd200
+      internalID: 30871738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_106
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a144ca4977d884b98e86455397e377
+      internalID: -2139598945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_107
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f9646ca9bc42459e452c80bd26f8c
+      internalID: 999370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_108
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305dd5f02c0542b4e92996a0ce53c97d
+      internalID: 1178554719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_109
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 375.63635
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fef52ec63b32469e215810c3dde46
+      internalID: 887636099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c6711b760e37499ce3f1ac470ceb6
+      internalID: -103559016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144b7842563bc146b2dd3558ff375ef
+      internalID: -2050933010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_112
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244d9fa412928a4782c7d11fdba3cc9
+      internalID: -1668707619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_113
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e59cb99ba94944913306bab2cbd8a
+      internalID: -2092918366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_114
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643979c7f4637f43a2ce70f7e82dcc5
+      internalID: 490235412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_115
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50720a2036945bb4d9548db0376d27e4
+      internalID: -889973880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_116
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c472d91b25a0499b72365467f5216
+      internalID: -465170236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_117
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b21fbfba5fd43499b1a12eda3b3f9d
+      internalID: -988375411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_118
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a2337a4342494694413dd3a91c5f7
+      internalID: 958503401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_119
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ebc05b8a862946b2ab7694153dbb7
+      internalID: -550053425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_120
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 3.6363525
+        width: 372.36365
+        height: 372.36365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee8ba0f35fb6249a03b3aabea732b6
+      internalID: 1249714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21dcae8da65c1bb428982d034eb848a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_0: -1851188476
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_1: -312709521
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_10: -415086439
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_100: -856087864
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_101: 2092671715
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_102: 2009607101
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_103: 1237961418
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_104: -1417200931
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_105: 30871738
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_106: -2139598945
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_107: 999370716
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_108: 1178554719
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_109: 887636099
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_11: -1200706334
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_110: -103559016
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_111: -2050933010
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_112: -1668707619
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_113: -2092918366
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_114: 490235412
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_115: -889973880
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_116: -465170236
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_117: -988375411
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_118: 958503401
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_119: -550053425
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_12: -1304936001
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_120: 1249714248
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_13: -96970173
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_14: -675728749
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_15: 1194952638
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_16: -1649551283
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_17: -505065271
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_18: 1721550226
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_19: 1768871766
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_2: 1778603708
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_20: 1429216788
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_21: -1499357417
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_22: 1336328341
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_23: -1183218169
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_24: -689239498
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_25: 1141422687
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_26: 70665900
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_27: -838881444
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_28: -799321480
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_29: 266657388
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_3: 1061821619
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_30: 627547963
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_31: -1252914779
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_32: -829505026
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_33: -1341027628
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_34: 611406747
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_35: -2075492883
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_36: 343761061
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_37: 2001832662
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_38: 759599238
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_39: 1464910004
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_4: 1224053448
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_40: 1653261986
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_41: -1876335948
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_42: -1703455373
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_43: 896008631
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_44: 274761254
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_45: 1133159894
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_46: 447778781
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_47: 1713628103
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_48: -1440737067
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_49: 328722262
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_5: 2136414107
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_50: -1903961479
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_51: 1908609588
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_52: -469582170
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_53: -442057141
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_54: -263575439
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_55: -213335935
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_56: 2040166303
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_57: 1945035944
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_58: -1696960713
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_59: 2036376274
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_6: -98053206
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_60: -653900906
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_61: 176460644
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_62: 518995641
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_63: -259280750
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_64: -444621236
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_65: 215989564
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_66: 901540922
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_67: 1075967155
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_68: -324463406
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_69: -49008968
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_7: 257942286
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_70: 1240344021
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_71: -2059003995
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_72: 67700633
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_73: 1833478306
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_74: 1473350814
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_75: 607544129
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_76: 950423413
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_77: -1906672772
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_78: -1798812206
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_79: 354135057
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_8: 2032208422
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_80: -796617976
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_81: 1439412730
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_82: -759168627
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_83: -838155760
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_84: 85747314
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_85: -2096387451
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_86: 1148043806
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_87: 1163712424
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_88: 1088509196
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_89: -1719979566
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_9: 296818352
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_90: 926691046
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_91: -703385547
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_92: 857968745
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_93: 1185321679
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_94: 926155202
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_95: -1880548271
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_96: -1715979136
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_97: 882170869
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_98: -1235167092
+      magnific_master-jason-prompt-aaa-h_jS5OJg9LD0-2 4_99: -912078895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
